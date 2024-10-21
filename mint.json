@@ -43,8 +43,8 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart",
-        "muse"
+        "muse",
+        "quickstart"
       ]
     },
     {
@@ -59,6 +59,14 @@
         "projects/",
         "projects/",
         "projects/"
+      ]
+    },
+    {
+      "group": "Deep Dive",
+      "pages": [
+        "deep-dive/code",
+        "deep-dive/",
+        "deep-dive/"
       ]
     }
   ],
